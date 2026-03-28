@@ -1,0 +1,153 @@
+[
+  {
+    "condition": "Tuberculosis (TB)",
+    "india_context": "India has the highest TB burden globally — 26% of world TB cases. Fully curable with proper treatment.",
+    "symptoms": [
+      "persistent cough more than 2 weeks",
+      "blood in sputum",
+      "night sweats",
+      "unexplained weight loss",
+      "evening fever",
+      "fatigue",
+      "loss of appetite",
+      "chest pain"
+    ],
+    "high_risk_groups": [
+      "HIV positive individuals",
+      "Diabetes patients",
+      "Malnourished",
+      "Overcrowded living conditions",
+      "Healthcare workers"
+    ],
+    "diagnosis": "Sputum test (CBNAAT/GeneXpert), chest X-ray, Mantoux test. FREE testing at government DOTS centres.",
+    "treatment": "DOTS (Directly Observed Therapy Short-course) — 6 months. COMPLETELY FREE under NIKSHAY programme by Government of India. Do NOT stop treatment early.",
+    "prevention": "BCG vaccine at birth. Ventilation. Nutrition. Early diagnosis and treatment of cases.",
+    "government_scheme": "Ni-kshay Poshan Yojana — TB patients get Rs 500/month nutritional support",
+    "helpline": "National TB Helpline: 1800-11-6666 (Free)"
+  },
+  {
+    "condition": "Malaria",
+    "india_context": "Common in Odisha, Chhattisgarh, Jharkhand, Northeast India, tribal areas. Two main types: P.vivax (common) and P.falciparum (dangerous).",
+    "symptoms": [
+      "cyclical fever every 48-72 hours with chills, sweating, shaking",
+      "severe headache",
+      "nausea vomiting",
+      "muscle pain",
+      "fatigue",
+      "in severe cases: jaundice, confusion, dark urine"
+    ],
+    "diagnosis": "Rapid Diagnostic Test (RDT) — available at government PHCs FREE. Blood smear microscopy.",
+    "treatment": "P.vivax: Chloroquine + Primaquine (14 days). P.falciparum: Artemisinin Combination Therapy (ACT). PRESCRIPTION REQUIRED. FREE at government health centres.",
+    "prevention": "Sleep under insecticide-treated nets. Eliminate standing water. Mosquito repellent. Indoor residual spraying.",
+    "emergency_signs": "Any fever with confusion, seizures, inability to walk, severe breathing difficulty = P.falciparum severe malaria — emergency",
+    "government_scheme": "National Vector Borne Disease Control Programme — FREE diagnosis and treatment"
+  },
+  {
+    "condition": "Typhoid Fever",
+    "india_context": "Very common in India due to contaminated water and food. Particularly high in monsoon season.",
+    "symptoms": [
+      "sustained high fever 39-40C lasting weeks",
+      "gradually worsening fever (step-ladder pattern)",
+      "severe headache",
+      "weakness",
+      "abdominal pain and distension",
+      "constipation more common than diarrhoea in adults",
+      "rose spots on trunk (rare)"
+    ],
+    "diagnosis": "Widal test (screening), Blood culture (gold standard), TYPHIDOT rapid test.",
+    "treatment": "Azithromycin 500mg once daily 7 days OR Ciprofloxacin. PRESCRIPTION REQUIRED. Rest and fluids essential. Monitor for complications: intestinal perforation (severe abdominal pain = emergency).",
+    "prevention": "Typhoid vaccine (Vi polysaccharide — 3 years protection, conjugate vaccine — longer). Safe water — boil or purify. Avoid street food. Hand hygiene.",
+    "critical_warning": "Severe abdominal pain in typhoid patient = possible intestinal perforation = EMERGENCY — go to hospital immediately"
+  },
+  {
+    "condition": "Dengue Fever",
+    "india_context": "Epidemic seasons: post-monsoon (August-November). Common in Delhi, Maharashtra, Karnataka, Tamil Nadu, Kerala. Urban Aedes aegypti mosquito bites during daytime.",
+    "symptoms": [
+      "sudden very high fever 40C onset",
+      "severe headache",
+      "pain behind eyes (retro-orbital)",
+      "severe joint and muscle pain (break-bone fever)",
+      "skin rash appearing day 3-5",
+      "nausea vomiting",
+      "mild bleeding"
+    ],
+    "dengue_warning_signs": [
+      "severe abdominal pain",
+      "persistent vomiting",
+      "rapid breathing",
+      "bleeding from gums or nose",
+      "fatigue and restlessness",
+      "blood in vomit or stool",
+      "cold clammy skin"
+    ],
+    "treatment": "NO specific antiviral. Paracetamol ONLY for fever — NEVER Ibuprofen or Aspirin. Oral hydration. Platelet monitoring. Hospitalise if warning signs or platelet below 100,000.",
+    "prevention": "Eliminate stagnant water. Use repellents. Full sleeve clothing. Mosquito nets. Awareness.",
+    "critical_rule": "NEVER give Ibuprofen, Aspirin, or NSAIDs in suspected dengue — causes dangerous bleeding"
+  },
+  {
+    "condition": "Chikungunya",
+    "india_context": "Common in India, spread by same Aedes mosquito as dengue. Major outbreaks occur every few years.",
+    "symptoms": [
+      "sudden high fever",
+      "severe joint pain especially in hands feet wrists ankles (can persist months)",
+      "headache",
+      "muscle pain",
+      "rash",
+      "joint swelling"
+    ],
+    "diagnosis": "CHIKV IgM antibody test after day 5.",
+    "treatment": "No specific treatment. Paracetamol or Ibuprofen for pain (SAFE to use unlike dengue). Rest. Fluids. Joint pain may persist for months.",
+    "prevention": "Same as dengue — mosquito control measures."
+  },
+  {
+    "condition": "Leptospirosis (Rat Fever)",
+    "india_context": "Common during and after floods. Walking in waterlogged areas. Maharashtra, Kerala, Tamil Nadu coastal areas.",
+    "symptoms": [
+      "high fever with chills",
+      "severe headache",
+      "muscle pain especially calves",
+      "red eyes (conjunctival suffusion)",
+      "jaundice",
+      "decreased urine output"
+    ],
+    "diagnosis": "Leptospira IgM ELISA, blood culture. Clinical diagnosis during flood season.",
+    "treatment": "Doxycycline 100mg twice daily 7 days (mild). Penicillin G or Ampicillin IV for severe. PRESCRIPTION REQUIRED.",
+    "prevention": "Avoid wading in flood water. Boots and gloves if unavoidable. Doxycycline prophylaxis during flood exposure (prescription).",
+    "high_risk": "Farmers, sewer workers, flood rescue workers, veterinarians"
+  },
+  {
+    "condition": "Iron Deficiency Anemia",
+    "india_context": "Most common nutritional deficiency in India. Affects 53% of women and 50% of children. Major cause: poor diet, parasitic infections, frequent pregnancies.",
+    "symptoms": [
+      "fatigue and weakness",
+      "pale skin and conjunctiva",
+      "shortness of breath on exertion",
+      "dizziness",
+      "pica (craving non-food items like mud, chalk)",
+      "cold hands and feet",
+      "brittle nails",
+      "hair fall"
+    ],
+    "diagnosis": "CBC: Hb below 12 (women) or 13 (men). Serum Ferritin (most sensitive). MCV below 80 (microcytic).",
+    "treatment": "Iron supplements: Ferrous Sulphate 200mg or Ferrous Fumarate twice daily with Vitamin C. Take on empty stomach if tolerated. Continue 3 months after Hb normalises.",
+    "diet": "Increase: spinach, lentils, beans, dates, jaggery, meat, fish. Take with Vitamin C (lemon, orange). Avoid tea/coffee with iron-rich meals.",
+    "government_scheme": "Anaemia Mukt Bharat programme — FREE iron-folic acid supplements at government facilities and ASHA workers"
+  },
+  {
+    "condition": "Hypertension (High Blood Pressure) — India Context",
+    "india_context": "1 in 4 adults in India has hypertension. Only 12% have it under control. Major cause of stroke, heart attack, kidney failure.",
+    "silent_killer": "Usually NO symptoms until complications. Many Indians first discover hypertension after a stroke or heart attack.",
+    "risk_factors_india": [
+      "High salt diet (pickles, papads, processed food)",
+      "Obesity",
+      "Physical inactivity",
+      "Stress",
+      "Tobacco",
+      "Family history",
+      "Diabetes"
+    ],
+    "treatment": "Lifestyle first: low salt less than 5g/day, DASH diet, exercise 30 min/day, no tobacco, weight loss. Medications if BP above 140/90 consistently: Amlodipine, Telmisartan, Atenolol (PRESCRIPTION REQUIRED).",
+    "monitoring": "Home BP monitoring: Check morning before medicines. Target below 130/80 for most. Below 140/90 minimum.",
+    "government_scheme": "Ayushman Bharat Health and Wellness Centres offer FREE BP screening and basic medicines"
+  }
+]

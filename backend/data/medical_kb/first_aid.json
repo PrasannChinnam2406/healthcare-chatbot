@@ -1,0 +1,164 @@
+[
+  {
+    "situation": "High Fever above 103F or 39.5C",
+    "immediate_steps": [
+      "Give Paracetamol 650mg immediately (adults) or 10-15mg/kg for children",
+      "Remove excess clothing — do not bundle up",
+      "Lukewarm water sponging on forehead, armpits and groin",
+      "Ensure good fluid intake — ORS, water, coconut water",
+      "Check temperature every 1 hour"
+    ],
+    "do_not": [
+      "Do NOT give ice cold water sponging",
+      "Do NOT give Aspirin to children under 16",
+      "Do NOT cover with heavy blankets"
+    ],
+    "go_to_hospital_if": [
+      "Fever above 104F (40C) not responding to medication in 1 hour",
+      "Febrile seizure (fits) occurs",
+      "Baby below 3 months has any fever",
+      "Fever with neck stiffness, rash, confusion, severe headache"
+    ],
+    "source": "WHO Fever Management Guidelines"
+  },
+  {
+    "situation": "Suspected Dengue Fever",
+    "immediate_steps": [
+      "Give only Paracetamol for fever and pain — DO NOT give Ibuprofen or Aspirin",
+      "Ensure adequate hydration — ORS or coconut water",
+      "Monitor for warning signs closely",
+      "Get blood test: CBC with platelet count within 24-48 hours of fever onset",
+      "Rest completely"
+    ],
+    "do_not": [
+      "NEVER give Ibuprofen, Aspirin, or Diclofenac in dengue — increases bleeding risk severely"
+    ],
+    "go_to_hospital_if": [
+      "Platelet count below 100,000",
+      "Severe abdominal pain",
+      "Persistent vomiting",
+      "Bleeding from gums, nose or in urine/stool",
+      "Extreme fatigue, restlessness",
+      "Cold clammy skin"
+    ],
+    "source": "WHO Dengue Clinical Management Guidelines 2024"
+  },
+  {
+    "situation": "Choking (Adult or Child above 1 year)",
+    "immediate_steps": [
+      "Ask: Are you choking? If person cannot speak, cough or breathe — act immediately",
+      "Stand behind person, lean them forward slightly",
+      "Give 5 firm back blows between shoulder blades with heel of hand",
+      "If not cleared: stand behind, make fist above navel, grab fist with other hand, give 5 sharp upward abdominal thrusts (Heimlich manoeuvre)",
+      "Alternate 5 back blows and 5 abdominal thrusts until object dislodged or person loses consciousness",
+      "If unconscious: call 108, start CPR"
+    ],
+    "do_not": [
+      "Do NOT do blind finger sweeps in mouth",
+      "Do NOT give abdominal thrusts to pregnant women or infants — use chest thrusts"
+    ],
+    "go_to_hospital_if": [
+      "Object was dislodged but person has difficulty breathing, swallowing or chest pain — internal injury possible"
+    ],
+    "source": "Red Cross First Aid Guidelines"
+  },
+  {
+    "situation": "Burns",
+    "immediate_steps": [
+      "Remove from heat source immediately",
+      "Cool the burn: run cool (not cold) running water over burn for 20 minutes",
+      "Remove jewellery and clothing near burn but NOT if stuck to skin",
+      "Cover loosely with clean non-fluffy cloth or cling film",
+      "Give Paracetamol or Ibuprofen for pain"
+    ],
+    "do_not": [
+      "Do NOT use ice, ice water, butter, toothpaste, or any home remedy on burns",
+      "Do NOT burst blisters",
+      "Do NOT remove clothing stuck to burn"
+    ],
+    "go_to_hospital_if": [
+      "Burns larger than palm of hand",
+      "Burns on face, hands, feet, genitals or joints",
+      "Chemical or electrical burns",
+      "Burn is deep (white/black, painless)",
+      "Child or elderly person with any significant burn"
+    ],
+    "source": "NHS First Aid Guidelines"
+  },
+  {
+    "situation": "Suspected Heart Attack",
+    "immediate_steps": [
+      "Call 108 immediately — this is a medical emergency",
+      "Have person sit or lie in comfortable position — typically sitting up with knees bent",
+      "Loosen tight clothing",
+      "If conscious and not allergic: give one adult Aspirin 325mg to chew (not swallow whole) — if available",
+      "Stay with person and keep them calm",
+      "If person becomes unconscious and stops breathing: start CPR"
+    ],
+    "do_not": [
+      "Do NOT leave person alone",
+      "Do NOT give food or water",
+      "Do NOT let person drive themselves to hospital"
+    ],
+    "go_to_hospital_if": [
+      "This IS an emergency — call 108 immediately regardless"
+    ],
+    "source": "American Heart Association / ICMR Cardiac Emergency Guidelines"
+  },
+  {
+    "situation": "Diabetic Hypoglycemia (Low Blood Sugar)",
+    "immediate_steps": [
+      "If conscious: give 15-20g fast-acting sugar immediately",
+      "Options: 3-4 glucose tablets, OR half glass fruit juice, OR 3-4 teaspoons sugar in water, OR 4-5 hard candies",
+      "Recheck blood sugar after 15 minutes",
+      "If still below 70 mg/dL: repeat sugar intake",
+      "Once recovered: give a proper meal or snack",
+      "Identify why hypoglycemia occurred — missed meal, excess insulin?"
+    ],
+    "do_not": [
+      "Do NOT give anything by mouth if person is unconscious or semi-conscious — choking risk",
+      "Do NOT give chocolate or fatty sweets — absorbed too slowly"
+    ],
+    "go_to_hospital_if": [
+      "Person is unconscious or having seizures",
+      "Blood sugar does not rise after 2 rounds of sugar intake",
+      "Person is on insulin and had severe episode"
+    ],
+    "source": "ICMR Diabetes Management Guidelines"
+  },
+  {
+    "situation": "Snake Bite",
+    "immediate_steps": [
+      "Keep person calm and still — movement spreads venom faster",
+      "Immobilise the bitten limb — splint if possible",
+      "Remove jewellery, watch, tight clothing near bite area",
+      "Mark the swelling boundary with pen and time every 15-30 minutes to monitor spread",
+      "Lie person down with bitten limb at or below heart level",
+      "Go to nearest hospital IMMEDIATELY — anti-venom is the only effective treatment"
+    ],
+    "do_not": [
+      "Do NOT cut and suck the wound",
+      "Do NOT apply tourniquet",
+      "Do NOT apply ice",
+      "Do NOT give alcohol",
+      "Do NOT use electric shock treatment"
+    ],
+    "go_to_hospital_if": [
+      "ALL snake bites — go to hospital immediately even if no symptoms yet"
+    ],
+    "source": "WHO Snake Bite Management Guidelines India"
+  },
+  {
+    "situation": "Severe Allergic Reaction / Anaphylaxis",
+    "immediate_steps": [
+      "Call 108 immediately",
+      "If person has an epinephrine auto-injector (EpiPen): use it on outer thigh immediately",
+      "Lay person flat with legs elevated UNLESS breathing is difficult — then sit upright",
+      "If available and person is conscious: antihistamine (Cetirizine) can help mild symptoms but is NOT a substitute for epinephrine",
+      "Be ready to do CPR if person loses consciousness"
+    ],
+    "do_not": ["Do NOT give water or food", "Do NOT let person stand or walk"],
+    "go_to_hospital_if": ["This IS an emergency — call 108 immediately"],
+    "source": "WHO Anaphylaxis Guidelines"
+  }
+]

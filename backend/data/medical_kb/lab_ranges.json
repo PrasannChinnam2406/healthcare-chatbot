@@ -1,0 +1,138 @@
+[
+  {
+    "test": "Hemoglobin (Hb)",
+    "category": "Complete Blood Count",
+    "unit": "g/dL",
+    "normal": {
+      "male": "13.5-17.5",
+      "female": "12.0-15.5",
+      "children": "11.0-16.0"
+    },
+    "low_meaning": "Anemia. Below 8 = severe anemia needing urgent treatment.",
+    "high_meaning": "Polycythemia. Above 18 = consult doctor.",
+    "clinical_notes": "Common causes of low Hb in India: iron deficiency, nutritional deficiency, blood loss, thalassemia trait."
+  },
+  {
+    "test": "Fasting Blood Glucose",
+    "category": "Diabetes Panel",
+    "unit": "mg/dL",
+    "normal": {
+      "all": "70-99"
+    },
+    "low_meaning": "Hypoglycemia. Below 54 = severe, needs immediate sugar intake.",
+    "high_meaning": "100-125 = Pre-diabetes. Above 126 = Diabetes (confirm with repeat test).",
+    "clinical_notes": "Always test fasting (8 hours no food). Confirm diabetes with 2 fasting tests or HbA1c."
+  },
+  {
+    "test": "HbA1c (Glycated Hemoglobin)",
+    "category": "Diabetes Panel",
+    "unit": "%",
+    "normal": {
+      "all": "Below 5.7%"
+    },
+    "low_meaning": "Not applicable.",
+    "high_meaning": "5.7-6.4% = Pre-diabetes. 6.5% or above = Diabetes. Above 9% = Poorly controlled diabetes.",
+    "clinical_notes": "Reflects average blood sugar over last 3 months. Does not require fasting."
+  },
+  {
+    "test": "Total Cholesterol",
+    "category": "Lipid Panel",
+    "unit": "mg/dL",
+    "normal": {
+      "all": "Below 200"
+    },
+    "low_meaning": "Not usually concerning.",
+    "high_meaning": "200-239 = Borderline high. 240 or above = High.",
+    "clinical_notes": "Check with LDL, HDL, Triglycerides."
+  },
+  {
+    "test": "LDL Cholesterol",
+    "category": "Lipid Panel",
+    "unit": "mg/dL",
+    "normal": {
+      "all": "Below 100"
+    },
+    "low_meaning": "Not concerning.",
+    "high_meaning": "Above 160 = High cardiovascular risk.",
+    "clinical_notes": "Main target for statin therapy."
+  },
+  {
+    "test": "HDL Cholesterol",
+    "category": "Lipid Panel",
+    "unit": "mg/dL",
+    "normal": {
+      "male": "Above 40",
+      "female": "Above 50"
+    },
+    "low_meaning": "Low HDL increases heart disease risk.",
+    "high_meaning": "Above 60 is protective.",
+    "clinical_notes": "Exercise improves HDL."
+  },
+  {
+    "test": "Serum Creatinine",
+    "category": "Kidney Function",
+    "unit": "mg/dL",
+    "normal": {
+      "male": "0.7-1.2",
+      "female": "0.5-1.0"
+    },
+    "low_meaning": "Low muscle mass.",
+    "high_meaning": "Kidney dysfunction.",
+    "clinical_notes": "Interpret with eGFR."
+  },
+  {
+    "test": "TSH",
+    "category": "Thyroid Panel",
+    "unit": "mIU/L",
+    "normal": {
+      "all": "0.4-4.0"
+    },
+    "low_meaning": "Hyperthyroidism.",
+    "high_meaning": "Hypothyroidism.",
+    "clinical_notes": "Common in women."
+  },
+  {
+    "test": "Platelet Count",
+    "category": "Complete Blood Count",
+    "unit": "cells/mcL",
+    "normal": {
+      "all": "150000-400000"
+    },
+    "low_meaning": "Bleeding risk.",
+    "high_meaning": "Reactive thrombocytosis.",
+    "clinical_notes": "Dengue reduces platelets."
+  },
+  {
+    "test": "WBC Count",
+    "category": "Complete Blood Count",
+    "unit": "cells/mcL",
+    "normal": {
+      "all": "4500-11000"
+    },
+    "low_meaning": "Viral infection.",
+    "high_meaning": "Bacterial infection.",
+    "clinical_notes": "Indicator of immunity."
+  },
+  {
+    "test": "Serum Sodium",
+    "category": "Electrolytes",
+    "unit": "mEq/L",
+    "normal": {
+      "all": "136-145"
+    },
+    "low_meaning": "Hyponatremia.",
+    "high_meaning": "Dehydration.",
+    "clinical_notes": "ORS is important."
+  },
+  {
+    "test": "Serum Potassium",
+    "category": "Electrolytes",
+    "unit": "mEq/L",
+    "normal": {
+      "all": "3.5-5.0"
+    },
+    "low_meaning": "Risk of arrhythmia.",
+    "high_meaning": "Cardiac emergency.",
+    "clinical_notes": "Monitor in BP meds."
+  }
+]

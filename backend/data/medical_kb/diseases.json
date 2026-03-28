@@ -1,0 +1,241 @@
+[
+  {
+    "name": "Common Cold",
+    "description": "A viral infection of the upper respiratory tract caused most often by rhinoviruses.",
+    "symptoms": [
+      "runny nose",
+      "sneezing",
+      "sore throat",
+      "mild fever",
+      "cough",
+      "congestion",
+      "mild headache"
+    ],
+    "causes": "Rhinovirus, coronavirus (not COVID-19), RSV. Spreads via droplets and contact.",
+    "treatment": "Rest, fluids, Paracetamol for fever, nasal decongestants, steam inhalation. Usually resolves in 7-10 days.",
+    "prevention": "Wash hands frequently, avoid close contact with infected people, do not touch face."
+  },
+  {
+    "name": "Influenza (Flu)",
+    "description": "A contagious respiratory illness caused by influenza viruses affecting the nose, throat and lungs.",
+    "symptoms": [
+      "high fever above 38C",
+      "severe body ache",
+      "headache",
+      "chills",
+      "fatigue",
+      "dry cough",
+      "sore throat"
+    ],
+    "causes": "Influenza A or B virus. Spreads via respiratory droplets.",
+    "treatment": "Rest, fluids, Paracetamol 650mg every 6 hours for fever. Oseltamivir (Tamiflu) if prescribed within 48 hours of symptom onset.",
+    "prevention": "Annual flu vaccine, hand hygiene, masks in crowded places."
+  },
+  {
+    "name": "Dengue Fever",
+    "description": "A mosquito-borne viral disease common in India and tropical regions. Can become severe and life-threatening.",
+    "symptoms": [
+      "sudden high fever 40C",
+      "severe headache",
+      "pain behind eyes",
+      "joint and muscle pain",
+      "rash",
+      "nausea",
+      "mild bleeding from gums or nose"
+    ],
+    "causes": "Dengue virus (DENV 1-4) spread by Aedes aegypti mosquito bite during daytime.",
+    "treatment": "No specific antiviral. Rest, oral rehydration, Paracetamol ONLY for fever. NEVER give Ibuprofen or Aspirin in dengue as they increase bleeding risk severely. Monitor platelet count daily. Hospitalise if platelets below 100000.",
+    "prevention": "Eliminate standing water, use mosquito repellent, wear full sleeve clothing, use nets."
+  },
+  {
+    "name": "Malaria",
+    "description": "A life-threatening parasitic disease transmitted by the bite of infected Anopheles mosquitoes. Major cause of fever in rural India.",
+    "symptoms": [
+      "cyclical fever with chills and sweating every 48-72 hours",
+      "headache",
+      "nausea",
+      "vomiting",
+      "muscle pain",
+      "fatigue",
+      "anaemia"
+    ],
+    "causes": "Plasmodium parasites (P. falciparum most dangerous, P. vivax most common in India). Transmitted by female Anopheles mosquito at night.",
+    "treatment": "P. vivax: Chloroquine plus Primaquine 14 days. P. falciparum: Artemisinin Combination Therapy. PRESCRIPTION REQUIRED. FREE at government DOTS centres under NVBDCP.",
+    "prevention": "Sleep under insecticide-treated nets, use repellents, eliminate stagnant water, prophylactic medication when travelling to endemic areas."
+  },
+  {
+    "name": "Typhoid Fever",
+    "description": "A bacterial infection caused by Salmonella typhi, commonly spread through contaminated food and water. Very common in India especially during monsoon.",
+    "symptoms": [
+      "sustained high fever 39-40C lasting days to weeks",
+      "step-ladder fever pattern",
+      "severe headache",
+      "weakness",
+      "abdominal pain",
+      "constipation more common than diarrhoea",
+      "loss of appetite"
+    ],
+    "causes": "Salmonella typhi bacteria via contaminated food or water. Faeco-oral route.",
+    "treatment": "Azithromycin 500mg once daily for 7 days OR Ciprofloxacin. PRESCRIPTION REQUIRED. Rest and adequate fluids. Monitor for intestinal perforation which is a surgical emergency.",
+    "prevention": "Typhoid vaccine (Vi polysaccharide), drink boiled or purified water, avoid street food, thorough hand hygiene."
+  },
+  {
+    "name": "Type 2 Diabetes",
+    "description": "A chronic metabolic condition where the body does not produce enough insulin or does not use it effectively, causing high blood glucose levels.",
+    "symptoms": [
+      "increased thirst (polydipsia)",
+      "frequent urination (polyuria)",
+      "unexplained weight loss",
+      "fatigue",
+      "blurred vision",
+      "slow healing wounds",
+      "frequent infections",
+      "tingling in hands and feet"
+    ],
+    "causes": "Insulin resistance, obesity, sedentary lifestyle, family history, age above 45, gestational diabetes history.",
+    "treatment": "Lifestyle changes including diet and exercise are first line. Metformin (oral, prescription) is first drug of choice. Regular blood glucose monitoring. HbA1c target below 7%.",
+    "prevention": "Maintain healthy weight, regular exercise 150 minutes per week, balanced diet low in refined carbohydrates and sugar, avoid smoking."
+  },
+  {
+    "name": "Hypertension (High Blood Pressure)",
+    "description": "A common chronic condition where blood pressure in the arteries is persistently elevated. The silent killer because it usually has no symptoms.",
+    "symptoms": [
+      "usually no symptoms",
+      "occasional headache especially in morning",
+      "shortness of breath",
+      "nosebleeds in severe cases",
+      "visual disturbances in hypertensive crisis"
+    ],
+    "causes": "Age, obesity, high salt diet above 5g per day, physical inactivity, stress, smoking, alcohol, family history, kidney disease, diabetes.",
+    "treatment": "Lifestyle changes first: low salt diet, DASH diet, regular exercise, no smoking. Antihypertensives if BP consistently above 140/90: Amlodipine, Telmisartan, Atenolol. PRESCRIPTION REQUIRED.",
+    "prevention": "Salt intake below 5g per day, regular aerobic exercise, healthy weight, no tobacco, limit alcohol, manage stress."
+  },
+  {
+    "name": "Gastroenteritis (Stomach Flu)",
+    "description": "Inflammation of the stomach and intestines causing diarrhoea and vomiting. Very common in India due to food and water contamination.",
+    "symptoms": [
+      "diarrhoea",
+      "vomiting",
+      "nausea",
+      "stomach cramps",
+      "mild fever",
+      "dehydration",
+      "weakness"
+    ],
+    "causes": "Rotavirus, norovirus, Salmonella, E. coli, Vibrio cholerae. Spread via contaminated food and water or person-to-person contact.",
+    "treatment": "Oral Rehydration Solution (ORS) is most important treatment to prevent dehydration. Zinc supplements for children under 5. Probiotics help. Antibiotics only if bacterial cause confirmed by doctor.",
+    "prevention": "Safe food handling, clean water, thorough hand washing before eating and after toilet, proper food storage."
+  },
+  {
+    "name": "COVID-19",
+    "description": "A respiratory illness caused by SARS-CoV-2 coronavirus. Range from mild cold-like illness to severe pneumonia.",
+    "symptoms": [
+      "fever",
+      "dry cough",
+      "fatigue",
+      "loss of taste or smell",
+      "sore throat",
+      "body ache",
+      "shortness of breath",
+      "low SpO2"
+    ],
+    "causes": "SARS-CoV-2 virus spread through respiratory droplets and aerosols. Highly contagious.",
+    "treatment": "Mild: rest, fluids, Paracetamol, monitor SpO2 daily. Seek emergency care if SpO2 below 94% or breathing difficulty. Antivirals for high-risk patients require prescription.",
+    "prevention": "COVID-19 vaccination, masks in crowded enclosed spaces, hand hygiene, good ventilation."
+  },
+  {
+    "name": "Asthma",
+    "description": "A chronic inflammatory airway disease causing recurrent episodes of wheezing, breathlessness, chest tightness and cough.",
+    "symptoms": [
+      "wheezing",
+      "shortness of breath",
+      "chest tightness",
+      "cough especially at night or early morning",
+      "symptoms triggered by exercise cold air or allergens"
+    ],
+    "causes": "Allergens (pollen, dust mites, pet dander, mould), air pollution, exercise, cold air, respiratory infections, stress, tobacco smoke.",
+    "treatment": "Salbutamol inhaler (Asthalin) for acute relief. Long-term: inhaled corticosteroids (prescription). Avoid triggers. Written asthma action plan.",
+    "prevention": "Identify and avoid personal triggers, keep home dust-free, air purifiers, manage allergies, no smoking."
+  },
+  {
+    "name": "Urinary Tract Infection (UTI)",
+    "description": "Bacterial infection of the urinary system. More common in women. Very common in India.",
+    "symptoms": [
+      "burning pain during urination",
+      "frequent urge to urinate",
+      "cloudy or foul-smelling urine",
+      "lower abdominal pain",
+      "mild fever",
+      "blood in urine (haematuria)"
+    ],
+    "causes": "Escherichia coli (E. coli) causes 80% of UTIs. Poor hygiene, sexual activity, dehydration, catheter use, diabetes increase risk.",
+    "treatment": "Increase fluid intake. Nitrofurantoin or Trimethoprim-Sulfamethoxazole (prescription required). Complete full antibiotic course. Cranberry juice may help prevent recurrence.",
+    "prevention": "Drink 2-3 litres water daily, wipe front to back, urinate after sexual intercourse, avoid holding urine, proper hygiene."
+  },
+  {
+    "name": "Tuberculosis (TB)",
+    "description": "A bacterial infection caused by Mycobacterium tuberculosis primarily affecting the lungs. India has the highest TB burden in the world.",
+    "symptoms": [
+      "persistent cough lasting more than 2 weeks",
+      "blood in sputum (haemoptysis)",
+      "night sweats",
+      "unexplained weight loss",
+      "low-grade evening fever",
+      "fatigue",
+      "chest pain"
+    ],
+    "causes": "Mycobacterium tuberculosis spread through airborne droplets from an infected person coughing or sneezing.",
+    "treatment": "DOTS (Directly Observed Therapy Short-course) 6 months. COMPLETELY FREE under NIKSHAY programme. Do NOT stop treatment early even if feeling better as drug resistance develops.",
+    "prevention": "BCG vaccine at birth, good ventilation, nutritious diet, early diagnosis and treatment, covering mouth when coughing."
+  },
+  {
+    "name": "Iron Deficiency Anaemia",
+    "description": "The most common nutritional deficiency in India. Low haemoglobin due to insufficient iron. Affects 53% of Indian women and 50% of children under 5.",
+    "symptoms": [
+      "fatigue and weakness",
+      "pale skin and pale inner eyelids",
+      "shortness of breath on exertion",
+      "dizziness and lightheadedness",
+      "cold hands and feet",
+      "brittle nails",
+      "hair fall",
+      "pica (craving for mud or chalk)"
+    ],
+    "causes": "Poor dietary iron intake, frequent pregnancies, worm infestations, chronic blood loss, poor absorption.",
+    "treatment": "Ferrous Sulphate 200mg twice daily with Vitamin C to enhance absorption. Continue 3 months after haemoglobin normalises. Treat underlying cause.",
+    "prevention": "Iron-rich diet (spinach, lentils, jaggery, meat, dates), Vitamin C with meals, iron-folic acid supplements during pregnancy, deworming."
+  },
+  {
+    "name": "Hypothyroidism",
+    "description": "Underactive thyroid gland producing insufficient thyroid hormone. Very common in India especially in women.",
+    "symptoms": [
+      "fatigue and sluggishness",
+      "weight gain without increased eating",
+      "cold intolerance",
+      "hair loss and dry hair",
+      "dry skin",
+      "constipation",
+      "depression",
+      "muscle weakness",
+      "irregular or heavy periods in women"
+    ],
+    "causes": "Autoimmune (Hashimoto's thyroiditis) most common. Iodine deficiency, radiation treatment, thyroid surgery.",
+    "treatment": "Levothyroxine (thyroxine) daily on empty stomach. PRESCRIPTION REQUIRED. Lifelong treatment usually needed. Monitor TSH every 6 months.",
+    "prevention": "Adequate iodine intake through iodised salt. Regular thyroid screening for women above 30."
+  },
+  {
+    "name": "Peptic Ulcer Disease",
+    "description": "Open sores (ulcers) that develop on the inner lining of the stomach or duodenum. Common in India.",
+    "symptoms": [
+      "burning stomach pain between meals and at night",
+      "nausea",
+      "bloating",
+      "heartburn",
+      "pain relieved by eating or antacids",
+      "in severe cases: black tarry stools, vomiting blood"
+    ],
+    "causes": "H. pylori bacterial infection (most common in India), overuse of NSAIDs like Ibuprofen or Aspirin, stress, spicy food worsens but does not cause ulcers.",
+    "treatment": "Proton pump inhibitors (Pantoprazole 40mg once daily, prescription). H. pylori eradication with antibiotics if confirmed. Avoid NSAIDs. Avoid smoking and alcohol.",
+    "prevention": "Avoid prolonged NSAID use, treat H. pylori infection, avoid smoking, eat regular meals."
+  }
+]

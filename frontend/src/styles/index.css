@@ -1,0 +1,253 @@
+@import url("https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-primary: #0a0f1e;
+  --bg-secondary: #111827;
+  --bg-card: #161f35;
+  --bg-hover: #1e2d4a;
+  --accent: #3b82f6;
+  --accent-light: #60a5fa;
+  --accent-glow: rgba(59, 130, 246, 0.15);
+  --green: #10b981;
+  --amber: #f59e0b;
+  --red: #ef4444;
+  --text-primary: #f1f5f9;
+  --text-secondary: #94a3b8;
+  --text-muted: #475569;
+  --border: rgba(255, 255, 255, 0.07);
+  --border-accent: rgba(59, 130, 246, 0.3);
+  --font-main: "Sora", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+  --radius: 12px;
+  --radius-sm: 8px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-main);
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+
+::-webkit-scrollbar {
+  width: 4px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--text-muted);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-secondary);
+}
+
+/* ============================================================
+   MARKDOWN — clean, structured, readable
+   ============================================================ */
+.md {
+  line-height: 1.7;
+  color: var(--text-secondary);
+}
+
+/* Paragraphs */
+.md p {
+  margin: 0 0 0.6rem;
+  line-height: 1.7;
+}
+.md p:last-child {
+  margin-bottom: 0;
+}
+
+/* Headings — h3 as main section headers (### Summary etc.) */
+.md h1 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin: 0.9rem 0 0.45rem;
+}
+.md h2 {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--accent-light);
+  margin: 0.9rem 0 0.45rem;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.25rem;
+}
+.md h3 {
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--accent-light);
+  margin: 1rem 0 0.4rem;
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.md h3:first-child {
+  margin-top: 0;
+}
+.md h4 {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin: 0.75rem 0 0.3rem;
+}
+
+/* Lists — the primary format */
+.md ul,
+.md ol {
+  padding-left: 1.35rem;
+  margin: 0.25rem 0 0.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+.md li {
+  color: var(--text-secondary);
+  line-height: 1.6;
+  padding-left: 0.1rem;
+}
+.md li::marker {
+  color: var(--accent-light);
+}
+.md li strong {
+  color: var(--text-primary);
+  font-weight: 600;
+}
+
+/* Strong / em */
+.md strong {
+  color: var(--text-primary);
+  font-weight: 600;
+}
+.md em {
+  color: var(--accent-light);
+  font-style: normal;
+  font-weight: 500;
+}
+
+/* Code */
+.md code {
+  background: rgba(59, 130, 246, 0.12);
+  color: var(--accent-light);
+  padding: 1px 5px;
+  border-radius: 4px;
+  font-family: var(--font-mono);
+  font-size: 0.84em;
+}
+.md pre {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 0.875rem;
+  overflow-x: auto;
+  margin: 0.6rem 0;
+}
+.md pre code {
+  background: none;
+  padding: 0;
+  color: var(--text-secondary);
+}
+
+/* Tables */
+.md table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.6rem 0;
+  font-size: 0.875rem;
+}
+.md th {
+  background: var(--bg-hover);
+  color: var(--accent-light);
+  padding: 0.45rem 0.75rem;
+  text-align: left;
+  font-weight: 600;
+  border-bottom: 1px solid var(--border-accent);
+}
+.md td {
+  padding: 0.4rem 0.75rem;
+  border-bottom: 1px solid var(--border);
+  color: var(--text-secondary);
+}
+.md tr:hover td {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+/* Blockquote — used for disclaimers */
+.md blockquote {
+  border-left: 3px solid rgba(59, 130, 246, 0.4);
+  padding: 0.4rem 0.875rem;
+  margin: 0.75rem 0;
+  color: var(--text-muted);
+  font-size: 0.82rem;
+  background: rgba(59, 130, 246, 0.04);
+  border-radius: 0 6px 6px 0;
+}
+
+/* HR */
+.md hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 0.75rem 0;
+}
+
+/* Nested lists */
+.md ul ul,
+.md ol ol {
+  margin: 0.2rem 0 0.2rem 0;
+}
+
+/* ============================================================
+   ANIMATIONS
+   ============================================================ */
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes pulse {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.25;
+  }
+}
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+@keyframes blink {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+}
+
+.fade-up {
+  animation: fadeUp 0.35s ease forwards;
+}

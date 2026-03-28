@@ -1,0 +1,90 @@
+chest pain
+heart attack
+can't breathe
+cannot breathe
+difficulty breathing
+shortness of breath
+not breathing
+stopped breathing
+stroke
+unconscious
+unresponsive
+collapsed
+fainted
+severe bleeding
+heavy bleeding
+bleeding heavily
+choking
+seizure
+fits
+convulsion
+suicidal
+want to die
+kill myself
+end my life
+self harm
+overdose
+poisoning
+swallowed poison
+drank poison
+allergic reaction
+anaphylaxis
+throat swelling
+face swelling
+lips swelling
+severe chest pain
+pain radiating to arm
+sudden numbness
+sudden weakness
+sudden confusion
+loss of consciousness
+very high fever
+fever 105
+fever 106
+spo2 low
+oxygen low
+oxygen dropping
+blood pressure very low
+blood pressure very high
+bp 180
+bp 190
+sugar very low
+hypoglycemia
+diabetic coma
+severe abdominal pain
+appendicitis
+head injury
+trauma
+accident
+emergency
+call ambulance
+108
+not moving
+baby not breathing
+infant blue
+newborn limp
+heavy blood
+blood in vomit
+blood in stool
+black stool
+vomiting blood
+severe headache sudden
+worst headache
+neck stiffness fever
+rash with fever
+purple rash
+meningitis
+snake bite
+electric shock
+drowning
+burn severe
+chemical burn
+eye injury
+can't see
+sudden vision loss
+severe eye pain
+paralysis
+can't move arm
+can't move leg
+face drooping
+slurred speech

@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Heart Rate",
+    "unit": "bpm",
+    "normal_range": "60-100 bpm (resting adult)",
+    "warning_range": "50-59 bpm or 101-120 bpm",
+    "critical_range": "Below 40 bpm or above 150 bpm",
+    "notes": "Athletes may normally have 40-60 bpm. Fever increases HR by 10 bpm per 1 degree C. Newborns 120-160, infants 80-140, children 70-120."
+  },
+  {
+    "name": "SpO2 (Oxygen Saturation)",
+    "unit": "%",
+    "normal_range": "95-100%",
+    "warning_range": "91-94% — concerning, requires monitoring and possible oxygen",
+    "critical_range": "90% or below — medical emergency, requires immediate oxygen support",
+    "notes": "SpO2 below 90% is a medical emergency. COVID-19 patients may have silent hypoxia (low SpO2 without feeling breathless). Measure on fingertip without nail polish."
+  },
+  {
+    "name": "Body Temperature",
+    "unit": "Celsius",
+    "normal_range": "36.1 to 37.2 degrees Celsius",
+    "warning_range": "37.3 to 38.9 degrees Celsius (fever) OR 35.0 to 36.0 degrees Celsius (mild hypothermia)",
+    "critical_range": "Above 40.0 degrees Celsius (high fever) OR below 35.0 degrees Celsius (hypothermia)",
+    "notes": "Temperature above 40C in adults is a medical emergency. In children above 38C warrants doctor visit. Oral temperature is 0.3-0.6C lower than rectal. Ear and forehead thermometers are less accurate."
+  },
+  {
+    "name": "Blood Pressure Systolic",
+    "unit": "mmHg",
+    "normal_range": "90-120 mmHg",
+    "warning_range": "121-139 mmHg (prehypertension) OR 80-89 mmHg (low-normal)",
+    "critical_range": "Above 180 mmHg (hypertensive crisis) OR below 80 mmHg (hypotension or shock)",
+    "notes": "BP above 180 systolic is hypertensive emergency requiring immediate care. BP below 90 systolic with symptoms (dizziness, fainting, confusion) indicates shock. Always take 2-3 readings."
+  },
+  {
+    "name": "Blood Pressure Diastolic",
+    "unit": "mmHg",
+    "normal_range": "60-80 mmHg",
+    "warning_range": "81-89 mmHg OR 50-59 mmHg",
+    "critical_range": "Above 120 mmHg OR below 50 mmHg",
+    "notes": "Diastolic above 120 with symptoms is hypertensive emergency. Pulse pressure (systolic minus diastolic) should normally be 40-60 mmHg."
+  },
+  {
+    "name": "Blood Glucose Fasting",
+    "unit": "mg/dL",
+    "normal_range": "70-99 mg/dL (fasting — 8 hours no food)",
+    "warning_range": "100-125 mg/dL (pre-diabetes) OR 60-69 mg/dL (mild hypoglycaemia)",
+    "critical_range": "Below 54 mg/dL (severe hypoglycaemia — give sugar immediately) OR above 300 mg/dL (hyperglycaemic crisis)",
+    "notes": "Fasting means 8 hours without food. Severe hypoglycaemia (below 54) needs immediate sugar intake. In known diabetics: below 70 requires fast-acting sugar (glucose tablets or juice). Above 250 with symptoms requires doctor."
+  },
+  {
+    "name": "Blood Glucose Random (Postprandial)",
+    "unit": "mg/dL",
+    "normal_range": "Below 140 mg/dL (2 hours after meal)",
+    "warning_range": "140-199 mg/dL (impaired glucose tolerance)",
+    "critical_range": "Above 200 mg/dL (diabetes likely) OR above 400 mg/dL (hyperglycaemic emergency)",
+    "notes": "Postprandial glucose measured 2 hours after starting a meal. Values above 200 on two separate occasions confirms diabetes diagnosis."
+  },
+  {
+    "name": "Respiratory Rate",
+    "unit": "breaths per minute",
+    "normal_range": "12-20 breaths per minute (adult)",
+    "warning_range": "21-25 breaths per minute (tachypnoea) OR 10-11 breaths per minute (bradypnoea)",
+    "critical_range": "Above 30 breaths per minute OR below 8 breaths per minute",
+    "notes": "Respiratory rate above 25 in an adult is a sign of respiratory distress. Count for a full 60 seconds. Normal in children: newborns 40-60, infants 30-60, toddlers 24-40, school age 18-30."
+  }
+]

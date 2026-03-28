@@ -1,0 +1,108 @@
+[
+  {
+    "topic": "Antenatal Care Overview — What Every Pregnant Woman Needs",
+    "india_context": "India's National Health Mission recommends minimum 4 ANC visits. Under Pradhan Mantri Surakshit Matritva Abhiyan, free ANC checkups are available on the 9th of every month at government health facilities. Institutional delivery is strongly encouraged and incentivised.",
+    "minimum_anc_visits": [
+      "Visit 1 before 12 weeks: Confirm pregnancy, blood group and Rh factor, haemoglobin, blood pressure baseline, urine test for protein and glucose, weight and height, HIV and syphilis screening, register for PMMVY scheme",
+      "Visit 2 between 14 and 26 weeks: Anomaly ultrasound scan at 18-20 weeks to check baby development, haemoglobin recheck, blood pressure monitoring, review of iron folic acid compliance",
+      "Visit 3 between 28 and 34 weeks: Glucose challenge test for gestational diabetes, TT vaccination second dose, check baby position, review weight gain",
+      "Visit 4 at 36 weeks onwards: Birth planning, confirm baby position (check for breech), final blood pressure and haemoglobin, discuss signs of labour, choose delivery facility"
+    ],
+    "essential_supplements": [
+      "Iron plus Folic Acid tablets: Start from confirmed pregnancy ideally before 12 weeks. One tablet daily at night. FREE at all government health centres and ASHA workers. Folic acid prevents neural tube defects.",
+      "Calcium 500mg twice daily from 14 weeks onwards to prevent pre-eclampsia and support baby bone development",
+      "Vitamin D if deficiency confirmed by blood test — very common in Indian women"
+    ],
+    "vaccinations_in_pregnancy": [
+      "Tetanus Toxoid TT1: Give as early in pregnancy as possible",
+      "Tetanus Toxoid TT2: Give 4 weeks after TT1. Protects newborn from neonatal tetanus.",
+      "Influenza vaccine: Safe in all trimesters and recommended especially in first trimester"
+    ],
+    "government_scheme": "Pradhan Mantri Matru Vandana Yojana PMMVY gives Rs 5000 cash benefit in installments for first child. Janani Suraksha Yojana JSY gives cash incentive for institutional delivery especially for BPL families in rural areas.",
+    "helpline": "Pradhan Mantri Surakshit Matritva Helpline: 1800-180-1104 Free"
+  },
+  {
+    "topic": "Pregnancy Warning Signs Requiring Immediate Hospital Visit",
+    "warning_signs_pregnancy": [
+      "Any vaginal bleeding at any stage of pregnancy",
+      "Severe persistent headache especially with blurred vision or visual disturbances",
+      "Sudden severe swelling of face, hands or legs",
+      "Reduced or absent baby movements for more than 12 hours after 28 weeks",
+      "Fits or seizures at any time during pregnancy",
+      "High fever above 38 degrees Celsius",
+      "Difficulty breathing or chest pain",
+      "Severe upper abdominal pain (epigastric pain) — may indicate HELLP syndrome",
+      "Leaking of water or fluid from vagina before 37 weeks",
+      "Regular painful contractions before 37 weeks (preterm labour)",
+      "Sudden severe pain in abdomen"
+    ],
+    "pre_eclampsia": "Blood pressure above 140 over 90 with protein in urine after 20 weeks of pregnancy is pre-eclampsia. This is a MEDICAL EMERGENCY. Go to hospital immediately. If untreated it can progress to eclampsia (fits) which can be fatal to mother and baby. Signs: severe headache, visual disturbances, upper abdominal pain, sudden severe swelling.",
+    "india_context": "Pre-eclampsia and eclampsia are leading causes of maternal death in India. Early recognition and hospital delivery prevents most deaths. Do not wait to see if it improves."
+  },
+  {
+    "topic": "First Trimester Weeks 1 to 12",
+    "common_symptoms": [
+      "nausea and vomiting — morning sickness affects 70-80% of pregnant women",
+      "breast tenderness and enlargement",
+      "extreme fatigue especially in first 8 weeks",
+      "frequent urination",
+      "mood changes and emotional sensitivity",
+      "mild lower abdominal cramping similar to period pain",
+      "food aversions and cravings",
+      "heightened sense of smell"
+    ],
+    "morning_sickness_help": "Eat small frequent meals every 2-3 hours rather than large meals. Ginger tea, ginger biscuits or ginger candy often help significantly. Avoid empty stomach, especially in morning — keep crackers by bedside to eat before getting up. Cold foods often better tolerated than hot. If unable to keep any food or fluids down for 24 hours or losing weight, see doctor immediately as this is hyperemesis gravidarum needing treatment.",
+    "what_to_avoid": [
+      "Alcohol — absolutely no safe level during pregnancy, causes fetal alcohol syndrome",
+      "Smoking — increases risk of miscarriage, preterm birth, low birth weight",
+      "Raw or undercooked meat, eggs and seafood — infection risk",
+      "High mercury fish including swordfish, shark, king mackerel — damages baby nervous system",
+      "Caffeine above 200mg per day, which is approximately 2 cups of tea or 1 cup of coffee",
+      "Hot baths, saunas and steam rooms — raise core body temperature",
+      "Cat litter — toxoplasmosis risk",
+      "Unpasteurised dairy products and soft cheeses — listeria risk",
+      "Excess Vitamin A supplements — causes birth defects in high doses"
+    ],
+    "exercise": "Light to moderate exercise is safe and beneficial during uncomplicated pregnancy. Walking, prenatal yoga and swimming are ideal. Avoid contact sports, high impact activities and lying flat on back after first trimester. Stop immediately if bleeding, pain, dizziness or breathlessness occurs.",
+    "first_scans": "Dating ultrasound at 6-10 weeks confirms pregnancy viability and calculates due date. Anomaly scan at 18-20 weeks checks baby anatomy and development. Both are important."
+  },
+  {
+    "topic": "Nutrition During Pregnancy",
+    "india_context": "Malnutrition affects many Indian pregnant women especially in rural areas. ASHA workers distribute iron folic acid supplements at village level. Adequate nutrition directly reduces maternal and infant mortality.",
+    "calorie_needs": "Extra 300 calories per day in second and third trimesters. This is equivalent to one extra medium meal or two extra snacks — not eating for two.",
+    "important_nutrients": [
+      "Iron: Spinach, lentils and dals, jaggery, dates, green leafy vegetables, meat and fish. Take with Vitamin C to enhance absorption. Avoid tea and coffee within 1 hour of iron-rich meals.",
+      "Folic acid: Green leafy vegetables, legumes, fortified cereals, oranges. Supplement essential in first trimester.",
+      "Calcium: Dairy products, ragi (finger millet — highest calcium of any grain), sesame seeds (til), green leafy vegetables, fish with bones.",
+      "Protein: Lentils, beans, eggs, fish, chicken, dairy, tofu. Essential for baby growth especially in second and third trimesters.",
+      "Iodine: Iodised salt is most important source. Iodine deficiency causes intellectual disability in baby."
+    ],
+    "foods_to_limit": "Papaya (unripe papaya contains latex that can trigger contractions), excess pineapple in first trimester, very spicy foods if causing reflux, high mercury fish.",
+    "hydration": "Drink 8-10 glasses of water daily. Coconut water is an excellent hydrating option rich in electrolytes. Adequate hydration prevents urinary tract infections which are common in pregnancy."
+  },
+  {
+    "topic": "Postnatal Care After Delivery",
+    "breastfeeding": "Start breastfeeding within 1 hour of birth. Colostrum which is the thick yellowish first milk is extremely valuable for baby immunity — never discard it. Exclusive breastfeeding for first 6 months means no water, no other food. WHO recommends continuing breastfeeding up to 2 years. Breastfeeding reduces infant mortality by 13% and protects against diarrhoea and pneumonia.",
+    "postpartum_warning_signs": [
+      "Heavy vaginal bleeding soaking more than one pad per hour for 2 or more hours",
+      "Fever above 38 degrees Celsius after delivery",
+      "Foul-smelling vaginal discharge",
+      "Severe headache with visual disturbances after delivery",
+      "Chest pain or difficulty breathing",
+      "Leg pain, swelling or redness — may indicate blood clot",
+      "Signs of postpartum depression lasting more than 2 weeks"
+    ],
+    "newborn_essentials": [
+      "Keep baby warm — wrap in soft cloth and maintain room temperature above 25 degrees",
+      "Do NOT bathe newborn immediately — vernix provides protection, delay first bath 24 hours",
+      "Vitamin K injection at birth prevents dangerous bleeding disorder",
+      "Eye drops (erythromycin or tetracycline) to prevent eye infection from birth canal",
+      "BCG vaccine for TB protection at birth",
+      "Hepatitis B vaccine first dose at birth",
+      "OPV oral polio vaccine zero dose at birth"
+    ],
+    "postpartum_depression": "Baby blues with mild mood changes, tearfulness and anxiety in first 2 weeks after birth are normal hormonal changes. Postpartum depression is different — persistent sadness, inability to care for baby, or thoughts of harm to self or baby beyond 2 weeks needs immediate medical help. This is a medical condition not a character failure. See helplines section.",
+    "government_scheme": "Janani Shishu Suraksha Karyakram JSSK provides FREE delivery, FREE caesarean, FREE medicines and FREE transport for pregnant women at government hospitals. No payment should be demanded.",
+    "helpline": "Mother and Child Protection card issued at delivery — keep safe as it records all vaccinations."
+  }
+]

@@ -1,0 +1,139 @@
+[
+  {
+    "condition": "Depression",
+    "type": "Mental Health",
+    "description": "A common mental health condition causing persistent sadness, loss of interest, and inability to carry out daily activities. Very common in India but severely underdiagnosed due to stigma.",
+    "symptoms": [
+      "persistent sadness or empty feeling for more than 2 weeks",
+      "loss of interest in activities once enjoyed",
+      "changes in appetite — eating too much or too little",
+      "sleep disturbances — too much or too little sleep",
+      "fatigue and loss of energy",
+      "feelings of worthlessness or excessive guilt",
+      "difficulty thinking, concentrating or making decisions",
+      "thoughts of death or suicide"
+    ],
+    "india_context": "Depression affects 56 million Indians. Highly stigmatised. Patients often present with physical complaints like body pain and headache rather than emotional symptoms. ASHA workers are trained in basic mental health support under NMHP.",
+    "when_to_seek_help": "If symptoms last more than 2 weeks or there are any thoughts of self-harm, see a doctor immediately. Depression is a medical condition, not a character weakness.",
+    "what_helps": "Talking to a trusted person, regular sleep schedule, daily exercise even 20 minutes walking, sunlight exposure, social connection, professional therapy (CBT), medication if prescribed by psychiatrist.",
+    "treatment": "Psychotherapy especially CBT is most evidence-based. Antidepressants (SSRIs like Escitalopram, Sertraline) if prescribed by psychiatrist. Do NOT start or stop antidepressants without doctor guidance. Takes 4-6 weeks to see full effect.",
+    "helplines_india": [
+      "iCall (TISS Mumbai): 9152987821 — Monday to Saturday 8am to 10pm",
+      "Vandrevala Foundation: 1860-2662-345 — 24 hours free multilingual",
+      "NIMHANS Bangalore: 080-46110007",
+      "Snehi: 044-24640050",
+      "iCall WhatsApp: 9152987821"
+    ],
+    "source": "WHO mhGAP guidelines, NIMHANS India, Ministry of Health NMHP"
+  },
+  {
+    "condition": "Anxiety Disorder",
+    "type": "Mental Health",
+    "description": "Excessive, persistent worry and fear that is difficult to control and interferes with daily activities. Most common mental health condition globally and in India.",
+    "symptoms": [
+      "excessive worrying that is hard to control",
+      "feeling restless or on edge constantly",
+      "muscle tension",
+      "difficulty concentrating",
+      "sleep problems particularly difficulty falling asleep",
+      "rapid heartbeat and shortness of breath during anxiety episodes",
+      "sweating and trembling",
+      "avoiding situations that trigger anxiety"
+    ],
+    "india_context": "Anxiety is often expressed as physical symptoms in India including chest tightness, palpitations, and headache. Frequently confused with cardiac or gastrointestinal conditions. Exam stress and financial pressure are major triggers for Indian youth.",
+    "when_to_seek_help": "When anxiety interferes with work, relationships or daily function consistently for more than 6 months, or when panic attacks occur.",
+    "what_helps": "Diaphragmatic deep breathing exercises, progressive muscle relaxation, regular exercise, limiting caffeine and alcohol, consistent sleep schedule, mindfulness meditation.",
+    "treatment": "Cognitive Behavioural Therapy (CBT) is gold standard and most effective. SSRIs if medication needed. Benzodiazepines only for very short-term use due to dependence risk. PRESCRIPTION REQUIRED for all medications.",
+    "helplines_india": [
+      "iCall: 9152987821",
+      "Vandrevala Foundation: 1860-2662-345 — 24 hours"
+    ],
+    "source": "WHO mhGAP guidelines, American Psychiatric Association DSM-5"
+  },
+  {
+    "condition": "Stress and Burnout",
+    "type": "Mental Health",
+    "description": "Overwhelming mental and physical exhaustion from prolonged exposure to demanding situations. Recognised by WHO as an occupational phenomenon in ICD-11. Very common among students, farmers, healthcare workers and urban professionals in India.",
+    "symptoms": [
+      "extreme fatigue that does not improve with rest",
+      "feeling detached, cynical or negative about work and life",
+      "difficulty completing tasks that were previously easy",
+      "frequent headaches and body pain",
+      "frequent illness due to lowered immunity",
+      "irritability and short temper",
+      "loss of motivation and sense of purpose",
+      "feeling helpless or trapped"
+    ],
+    "india_context": "Farmer burnout and suicide is a major crisis in India particularly in Maharashtra, Karnataka and Andhra Pradesh. Student burnout during board exams and entrance test preparation is extremely common. Agricultural helpline: Kisan Call Centre 1800-180-1551.",
+    "self_care_steps": [
+      "Identify and reduce stressors where possible",
+      "Set clear boundaries between work and personal time",
+      "Regular physical activity even 20 minutes walking daily",
+      "Maintain consistent sleep and wake time",
+      "Stay connected with supportive friends and family",
+      "Limit news and social media to defined times",
+      "Practice brief mindfulness or prayer for 10 minutes daily",
+      "Take regular short breaks during work"
+    ],
+    "when_to_seek_help": "When self-care strategies do not help after 3 weeks, or when symptoms of depression or anxiety appear, seek professional support.",
+    "source": "WHO ICD-11 Burnout Classification Z73.0, National Mental Health Programme India"
+  },
+  {
+    "condition": "Suicide Prevention and Crisis Support",
+    "type": "Mental Health Emergency",
+    "description": "Suicidal thoughts or self-harm intentions are always a serious crisis requiring immediate support. India has approximately 230000 suicide deaths annually making it one of the highest globally. Most suicides are preventable with timely intervention.",
+    "warning_signs": [
+      "talking about wanting to die or to kill themselves",
+      "looking for ways to access means to harm themselves",
+      "talking about being a burden to family or others",
+      "increasing use of alcohol or drugs",
+      "withdrawing completely from friends and family",
+      "giving away valued possessions",
+      "sudden calmness after a period of depression (may indicate decision made)",
+      "extreme mood swings",
+      "saying goodbye to people as if they will not see them again"
+    ],
+    "what_to_do": [
+      "Take all talk of suicide seriously — never dismiss it as attention seeking",
+      "Ask directly and calmly: Are you thinking about suicide? — asking does not plant the idea",
+      "Listen without judgment and without minimising their pain",
+      "Remove access to means if safely possible — medicines, sharp objects, ropes",
+      "Stay with the person — do not leave them alone",
+      "Call a helpline together or take them to the nearest hospital emergency",
+      "Follow up regularly after a crisis — isolation increases risk"
+    ],
+    "immediate_helplines": [
+      "Vandrevala Foundation: 1860-2662-345 — 24 hours, free, multilingual Hindi English",
+      "iCall TISS: 9152987821 — Monday to Saturday 8am to 10pm",
+      "AASRA: 9820466627 — 24 hours",
+      "Snehi: 044-24640050",
+      "National Emergency: 112",
+      "Ambulance: 108"
+    ],
+    "india_context": "Suicide rates are highest among young adults aged 18-30 and farmers in India. Pesticide ingestion is a common method in rural areas. Restricting access to pesticides reduces rural suicide rates significantly. Seeking mental health help is not weakness.",
+    "source": "WHO Suicide Prevention Guidelines LIVE LIFE, NIMHANS, iCall TISS"
+  },
+  {
+    "condition": "Postpartum Depression",
+    "type": "Mental Health",
+    "description": "Depression occurring after childbirth affecting mothers and sometimes fathers. Distinct from normal baby blues which last only 2 weeks. Very common but rarely discussed in India due to cultural expectations on new mothers.",
+    "symptoms": [
+      "persistent sadness, emptiness or hopelessness lasting more than 2 weeks after birth",
+      "inability to bond with or care for the baby",
+      "withdrawing from family and friends",
+      "loss of appetite or overeating",
+      "inability to sleep even when baby sleeps",
+      "overwhelming fatigue",
+      "feeling like a failure as a mother",
+      "in severe cases: thoughts of harming self or baby"
+    ],
+    "india_context": "Postpartum depression affects 22% of Indian mothers but is massively underdiagnosed. Cultural pressure to be a perfect happy mother prevents women from seeking help. Family and husband support are critical protective factors.",
+    "when_to_seek_help": "Any depression symptoms lasting more than 2 weeks after birth, or any thoughts of harming self or baby, require immediate medical help. This is a medical condition caused by hormonal changes, not a character failure.",
+    "treatment": "Psychotherapy and social support are first line. Antidepressants safe during breastfeeding are available if needed (prescription required). Partner and family involvement in care is essential.",
+    "helplines_india": [
+      "iCall: 9152987821",
+      "Vandrevala Foundation: 1860-2662-345"
+    ],
+    "source": "WHO Maternal Mental Health Guidelines, FOGSI India"
+  }
+]

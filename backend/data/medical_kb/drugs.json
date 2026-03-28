@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Paracetamol",
+    "brand_names": "Crocin, Dolo 650, Calpol, Paracip, Metacin",
+    "category": "Analgesic and Antipyretic",
+    "indications": "Fever, mild to moderate pain, headache, body ache, toothache, post-vaccination fever",
+    "dosage": "Adults: 500-650mg per dose every 4-6 hours as needed. Maximum 4 doses per day (max 3g per day). Children: 10-15mg per kg per dose every 4-6 hours.",
+    "side_effects": "Rare at normal doses. Overdose causes serious liver damage. Do not exceed recommended dose.",
+    "contraindications": "Liver disease, chronic alcohol use. Do not combine with other paracetamol-containing products.",
+    "otc": true,
+    "prescription_required": false
+  },
+  {
+    "name": "Cetirizine",
+    "brand_names": "Zyrtec, Cetzine, Alerid, Okacet",
+    "category": "Antihistamine (second generation)",
+    "indications": "Allergic rhinitis, urticaria (hives), allergic skin reactions, itching, runny nose due to allergy",
+    "dosage": "Adults and children above 12 years: 10mg once daily at bedtime. Children 6-12 years: 5mg twice daily.",
+    "side_effects": "Mild drowsiness (less than older antihistamines), dry mouth, fatigue. Avoid driving if drowsy.",
+    "contraindications": "Kidney disease (reduce dose). Caution with alcohol and sedatives.",
+    "otc": true,
+    "prescription_required": false
+  },
+  {
+    "name": "ORS (Oral Rehydration Salts)",
+    "brand_names": "Electral, Enerzal, Pedialyte, WHO-ORS",
+    "category": "Rehydration therapy",
+    "indications": "Dehydration from diarrhoea, vomiting, heat exhaustion, fever with fluid loss, cholera",
+    "dosage": "Dissolve 1 sachet in 1 litre clean boiled cooled water. Adults: 200-400ml after each loose stool. Children: 50-100ml per kg body weight over 3-4 hours for moderate dehydration.",
+    "side_effects": "Safe at correct dilution. Nausea if taken too quickly. Do not dilute more or less than instructed.",
+    "contraindications": "Severe dehydration with vomiting (IV fluids needed). Kidney failure.",
+    "otc": true,
+    "prescription_required": false
+  },
+  {
+    "name": "Pantoprazole",
+    "brand_names": "Pan 40, Pantocid, Pantodac, Protonix",
+    "category": "Proton Pump Inhibitor (PPI)",
+    "indications": "Acidity, GERD (gastroesophageal reflux), peptic ulcer disease, stomach pain from excess acid",
+    "dosage": "Adults: 40mg once daily 30 minutes before breakfast. Course: 4-8 weeks for GERD, up to 8 weeks for ulcers.",
+    "side_effects": "Headache, diarrhoea, nausea, abdominal pain. Long-term use (above 1 year) may reduce magnesium and Vitamin B12.",
+    "contraindications": "Severe liver disease. Do not use long-term without medical supervision. Do not combine with Clopidogrel.",
+    "otc": true,
+    "prescription_required": false
+  },
+  {
+    "name": "Ibuprofen",
+    "brand_names": "Brufen, Combiflam (with Paracetamol), Advil, Nurofen",
+    "category": "NSAID (Non-Steroidal Anti-Inflammatory Drug)",
+    "indications": "Fever, mild to moderate pain, inflammation, arthritis, menstrual cramps, dental pain, musculoskeletal pain",
+    "dosage": "Adults: 200-400mg every 6-8 hours with food. Maximum 1200mg per day for OTC use. Always take with food or milk to protect stomach.",
+    "side_effects": "Stomach irritation, gastric ulcers with prolonged use, increased bleeding risk, kidney effects with dehydration, fluid retention.",
+    "contraindications": "CRITICAL: DO NOT USE IN DENGUE FEVER as it dramatically increases bleeding risk. Avoid with stomach ulcers, kidney disease, heart failure, dehydration. Avoid in last trimester of pregnancy. Caution in elderly patients.",
+    "otc": true,
+    "prescription_required": false
+  },
+  {
+    "name": "Digene Gel",
+    "brand_names": "Digene Gel, Gelusil MPS, Mucaine Gel, Eno (powder)",
+    "category": "Antacid",
+    "indications": "Acidity, heartburn, bloating, indigestion, gas, sour stomach",
+    "dosage": "Adults: 10-20ml gel or 1-2 tablets after meals and at bedtime. Maximum 4 doses per day. Take at least 2 hours away from other medications.",
+    "side_effects": "Constipation (aluminium-containing antacids), diarrhoea (magnesium-containing). Avoid long-term use.",
+    "contraindications": "Kidney disease. Do not take within 2 hours of other medications as it reduces their absorption.",
+    "otc": true,
+    "prescription_required": false
+  },
+  {
+    "name": "Loperamide",
+    "brand_names": "Imodium, Lopamide, Eldoper",
+    "category": "Antidiarrhoeal",
+    "indications": "Acute non-infectious diarrhoea, traveller's diarrhoea, chronic diarrhoea",
+    "dosage": "Adults: 4mg initial dose then 2mg after each loose stool. Maximum 16mg per day. Do not use for more than 2 days without medical advice.",
+    "side_effects": "Constipation, abdominal cramps, nausea, dizziness.",
+    "contraindications": "Do NOT use in bloody diarrhoea, dysentery, or high fever (may worsen bacterial infection). Do not use in children below 2 years. Do not use if diarrhoea is caused by antibiotics (C. diff).",
+    "otc": true,
+    "prescription_required": false
+  },
+  {
+    "name": "Azithromycin",
+    "brand_names": "Azee 500, Zithromax, Azithral, Azibact",
+    "category": "Antibiotic (Macrolide)",
+    "indications": "Community-acquired pneumonia, typhoid fever, pharyngitis, skin infections, chlamydia",
+    "dosage": "Adults: 500mg once daily for 3-5 days depending on infection. Must complete full course even if feeling better.",
+    "side_effects": "Nausea, diarrhoea, abdominal discomfort, mild liver enzyme elevation. Rare: QT prolongation (cardiac risk).",
+    "contraindications": "Severe liver disease, heart rhythm abnormalities (Long QT syndrome). PRESCRIPTION REQUIRED. Never self-medicate antibiotics.",
+    "otc": false,
+    "prescription_required": true
+  },
+  {
+    "name": "Amoxicillin",
+    "brand_names": "Amoxil, Novamox, Mox 500",
+    "category": "Antibiotic (Penicillin group)",
+    "indications": "Respiratory tract infections, ear infections (otitis media), urinary tract infections, H. pylori eradication (with other drugs)",
+    "dosage": "Adults: 250-500mg three times daily for 5-7 days. Children: 25-50mg per kg per day in divided doses.",
+    "side_effects": "Diarrhoea, nausea, rash, allergic reactions. Up to 10% of people allergic to penicillin.",
+    "contraindications": "Penicillin allergy (serious risk of anaphylaxis). PRESCRIPTION REQUIRED.",
+    "otc": false,
+    "prescription_required": true
+  },
+  {
+    "name": "Metformin",
+    "brand_names": "Glycomet, Glucophage, Obimet, Gluconorm",
+    "category": "Antidiabetic (Biguanide)",
+    "indications": "Type 2 diabetes management. First-line drug for most patients.",
+    "dosage": "Starting dose: 500mg twice daily with meals. Increased gradually to 1000-2000mg per day in divided doses. Take with food to reduce GI side effects.",
+    "side_effects": "Nausea, diarrhoea, metallic taste (usually resolves after 2-3 weeks). Very rarely: lactic acidosis (serious).",
+    "contraindications": "Kidney disease (eGFR below 30 ml/min), liver disease, heart failure, before contrast dye procedures (stop 48 hours before). PRESCRIPTION REQUIRED.",
+    "otc": false,
+    "prescription_required": true
+  },
+  {
+    "name": "Amlodipine",
+    "brand_names": "Amlip, Amlong, Norvasc, Stamlo",
+    "category": "Calcium Channel Blocker (antihypertensive)",
+    "indications": "Hypertension (high blood pressure), angina (chest pain from heart disease)",
+    "dosage": "Adults: 5mg once daily. May increase to 10mg if needed. Take at the same time each day.",
+    "side_effects": "Ankle swelling (pedal oedema), flushing, headache, dizziness, palpitations.",
+    "contraindications": "Severe low blood pressure, aortic stenosis. PRESCRIPTION REQUIRED. Do not stop suddenly.",
+    "otc": false,
+    "prescription_required": true
+  },
+  {
+    "name": "Salbutamol Inhaler",
+    "brand_names": "Asthalin Inhaler, Ventolin Inhaler, Aerocort",
+    "category": "Short-acting bronchodilator (SABA)",
+    "indications": "Acute asthma attack, wheezing, bronchospasm, exercise-induced asthma, COPD",
+    "dosage": "Acute attack: 2 puffs (200 mcg) every 4-6 hours as needed. Use spacer device if available especially for children. Maximum 8 puffs per day without medical review.",
+    "side_effects": "Tremors (shaking hands), rapid heartbeat (palpitations), headache, nervousness. These are dose-related and usually mild.",
+    "contraindications": "Heart disease (use with caution). Overuse reduces effectiveness. PRESCRIPTION REQUIRED for initial prescription but commonly available.",
+    "otc": false,
+    "prescription_required": true
+  },
+  {
+    "name": "Ondansetron",
+    "brand_names": "Emeset, Ondem, Zofran, Vomikind",
+    "category": "Antiemetic (5-HT3 antagonist)",
+    "indications": "Nausea and vomiting from gastroenteritis, chemotherapy, post-surgery, pregnancy (severe morning sickness)",
+    "dosage": "Adults: 4-8mg up to 3 times daily. Children above 4 years: 0.1-0.15mg per kg per dose (max 4mg). Oral disintegrating tablet dissolves on tongue without water.",
+    "side_effects": "Headache, constipation, dizziness, warm flushing feeling.",
+    "contraindications": "Long QT syndrome, severe liver disease, congenital heart defects. PRESCRIPTION REQUIRED.",
+    "otc": false,
+    "prescription_required": true
+  },
+  {
+    "name": "Vitamin C (Ascorbic Acid)",
+    "brand_names": "Celin 500, Limcee, Redoxon, Evion-C",
+    "category": "Vitamin supplement",
+    "indications": "Vitamin C deficiency, to enhance iron absorption, immunity support, wound healing",
+    "dosage": "Adults: 500-1000mg daily. For iron absorption: take with iron supplements or iron-rich meals. Safe up to 2000mg per day.",
+    "side_effects": "High doses (above 2000mg) may cause diarrhoea, kidney stones in susceptible individuals.",
+    "contraindications": "Kidney stones history (limit to 200mg daily), G6PD deficiency (haemolytic anaemia risk with very high doses).",
+    "otc": true,
+    "prescription_required": false
+  },
+  {
+    "name": "Zinc Sulphate",
+    "brand_names": "Zincovit, Zinco, Z and D, Zinconia",
+    "category": "Mineral supplement",
+    "indications": "Zinc deficiency, diarrhoea treatment in children (WHO recommendation), wound healing, immune support",
+    "dosage": "Diarrhoea in children: 20mg per day for 14 days (10mg per day for children below 6 months). Adults supplementation: 10-25mg per day with food.",
+    "side_effects": "Nausea and vomiting if taken on empty stomach. High doses interfere with copper absorption.",
+    "contraindications": "Do not take on empty stomach. Avoid high doses long-term without medical advice.",
+    "otc": true,
+    "prescription_required": false
+  }
+]
