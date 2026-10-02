@@ -76,8 +76,8 @@ SUPABASE_KEY=your_supabase_anon_key_here
 OPENFDA_API_KEY=your_openfda_key_here
 
 # ── WHO ICD-11 — already obtained ─────────────────────────
-WHO_ICD_CLIENT_ID=0214cfd8-9efa-42f5-b711-c65bb1a1d892_780616a0-9a7a-4e1b-86b4-eb246fda2102
-WHO_ICD_CLIENT_SECRET=nXVTw07mJysAbAO0tpptxMn0O/g8POQzxzwBXlMf3Gc=
+WHO_ICD_CLIENT_ID: Optional[str] = ""
+WHO_ICD_CLIENT_SECRET: Optional[str] = ""
 
 # ── IoMT (leave blank until keys arrive in 4 days) ────────
 IOMT_API_KEY=
